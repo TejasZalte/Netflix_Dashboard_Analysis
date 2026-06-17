@@ -97,6 +97,9 @@ Through this project, I gained hands-on experience in:
 * Data Visualization and Storytelling
 * Business Intelligence Reporting
 
+
+# screenshot : https://github.com/TejasZalte/Netflix_Dashboard_Analysis/blob/main/Netflix_Dashboard.png
+
  👨‍💻 Author
 
 Tejas Zalte
